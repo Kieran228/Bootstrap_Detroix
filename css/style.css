@@ -1,0 +1,162 @@
+.navbar {
+    color: #9aa9a9;
+    background-color: #0b0b31;
+    font-size: small;
+    padding: 0px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    background-color: yellow;
+}
+
+a:hover, a:active {
+    color: red;
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.nbnavbar {
+    text-align: end;
+}
+
+.navbar a {
+    /* color: white; */
+}
+
+.logo img {
+    position: relative;
+    left: 106px;
+}
+
+.logoandbuttons button {
+    color: white;
+    background-color: #0b0b31;
+    border-radius: 8px;
+}
+
+.navbuttons {
+    text-align: center;
+}
+
+.heroimgbutton button {
+    background-color: transparent;
+    height: 18px;
+    width: 44px;
+    border-radius: 4px;
+    /* border-style: none; */
+    position: relative;
+    left: 35px;
+    bottom: 118px;
+}
+
+.scrollbuttons button {
+    background-color: #808080;
+    height: 17px;
+    width: 10px;
+    border-radius: 100%;
+}
+
+.middlesection {
+    font-size: smaller;
+    position: relative;
+    margin-top: -20px;
+    padding-bottom: 30px;
+    border-top: 1px groove #a9a9a9;
+}
+
+.middlesection button {
+    color: white;
+    background-color: #213349;
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+}
+
+.middlesectioncolumn1 {
+    border-right: 1px groove #a9a9a9;
+}
+
+.middlesectioncolumn3 {
+    border-left: 1px groove #a9a9a9;
+}
+
+.bottomsection {
+    background: rgb(88,88,88);
+    background: linear-gradient(180deg, rgba(88,88,88,1) 0%, rgba(0,0,0,1) 35%, rgba(16,25,35,1) 100%);
+    padding-top: 20px;
+    font-size: smaller;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.bottomsection h6 {
+    color: white;
+    position: relative;
+    text-align: center;
+}
+
+.bottomsectioncolumn1 li {
+    color: #658080;
+    margin-bottom: 8px;
+    list-style-image: url(../media/cog2.png);
+}
+
+.bottomsectioncolumn2 li {
+    color: white;
+    margin-bottom: 6px;
+    list-style-image: url(../media/chat2.png);
+}
+
+.bottomsectioncolumn2 p {
+    color: #a9a98d;
+}
+
+.bottomsectioncolumn3 ul {
+    list-style: none;
+}
+
+.bottomsectioncolumn3 li {
+    color: white;
+}
+
+.list1 li {
+    list-style-image: url(../media/nov21.png);
+}
+
+.list2 li {
+    list-style-image: url(../media/nov9.png);
+}
+
+.list3 li {
+    list-style-image: url(../media/nov17.png);
+}
+
+.bottomsectioncolumn3 p {
+    color: #a9a98d;
+}
+
+.bottomsection button {
+    color: white;
+    background-color: #213349;
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer {
+    background-color: #0e1e31;
+    color: white;
+    padding: 5px;
+    font-size: small;
+}
